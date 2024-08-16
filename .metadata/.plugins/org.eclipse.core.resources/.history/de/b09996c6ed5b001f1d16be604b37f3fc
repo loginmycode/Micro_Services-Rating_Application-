@@ -1,0 +1,11 @@
+package com.user.model;
+
+
+
+public class Hotel {
+
+	private String hotelId;
+	private String hotelName;
+	private String hoteLocation;
+	private String hotelAbout;
+}

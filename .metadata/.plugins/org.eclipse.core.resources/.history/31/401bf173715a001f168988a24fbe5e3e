@@ -1,0 +1,5 @@
+package com.rating.model;
+
+public class Rating {
+
+}

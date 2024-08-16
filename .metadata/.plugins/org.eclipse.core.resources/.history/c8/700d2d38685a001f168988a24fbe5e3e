@@ -1,0 +1,16 @@
+package com.hotel.services;
+
+import java.util.List;
+
+import com.hotel.model.Hotel;
+
+public class HotelService {
+
+	public Hotel createHotel;
+	
+	public List<Hotel> getAllHotel;
+	
+	public Hotel getSingleHotel;
+	
+	
+}
